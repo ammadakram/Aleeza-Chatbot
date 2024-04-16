@@ -1,0 +1,110 @@
+[
+    ["I am (.*)",
+    [
+        "You are %1?",
+        "Why do you think you are %1?",
+        "How long have you been %1?"
+    ]],
+    ["You are (.*)",
+    [
+        "Why do you think you are %1?",
+        "How long have you been %1?",
+        "What makes you say you are %1?"
+    ]],
+    ["He is (.*)",
+    [
+        "Why do you think he is %1?",
+        "How long has he been %1?",
+        "What makes you say he is %1?"
+    ]],
+    ["She is (.*)",
+    [
+        "Why do you think she is %1?",
+        "How long has she been %1?",
+        "What makes you say she is %1?"
+    ]],
+    ["It is (.*)",
+    [
+        "Why do you think it is %1?",
+        "How long has it been %1?",
+        "What makes you say it is %1?"
+    ]],
+    ["I feel (.*)",
+    [
+        "Why do you feel %1?",
+        "How does feeling %1 affect you?",
+        "What made you feel %1?"
+    ]],
+    ["I want (.*)",
+    [
+        "Why do you want %1?",
+        "How would having %1 make you feel?",
+        "What makes you want %1?"
+    ]],
+    ["I think (.*)",
+    [
+        "Why do you think %1?",
+        "What makes you think %1?",
+        "How does thinking %1 make you feel?"
+    ]],
+    ["(.*) is (.*)",
+    [
+        "Why do you think %1 is %2?",
+        "What makes you say %1 is %2?",
+        "How does %2 affect %1?"
+    ]],
+    ["I like (.*)",
+    [
+        "Why do you like %1?",
+        "How does liking %1 make you feel?",
+        "What makes you like %1?"
+    ]],
+    ["I hate (.*)",
+    [
+        "Why do you hate %1?",
+        "How does hating %1 make you feel?",
+        "What makes you hate %1?"
+    ]],
+    ["I love (.*)",
+    [
+        "Why do you love %1?",
+        "How does loving %1 make you feel?",
+        "What makes you love %1?"
+    ]],
+    ["I have (.*)",
+    [
+        "Why do you have %1?",
+        "How does having %1 make you feel?",
+        "What makes you have %1?"
+    ]],
+    ["I eat (.*)",
+    [
+        "Why do you eat %1?",
+        "How does eating %1 make you feel?",
+        "What makes you eat %1?"
+    ]],
+    ["I sleep (.*)",
+    [
+        "Why do you sleep %1?",
+        "How does sleeping %1 make you feel?",
+        "What makes you sleep %1?"
+    ]],
+    ["I study (.*)",
+    [
+        "Why do you study %1?",
+        "How does studying %1 make you feel?",
+        "What makes you study %1?"
+    ]],
+    ["What?",
+    [
+        "I'm sorry if i was not clear, I'll try to be more understanding next time."
+    ]
+    ],
+    ["(.*)",
+    [
+        "Ok, lets change the topic a little. Tell me about your family.",
+        "Hmm, whats your favourite dish.",
+        "What do you like to do for fun?"
+    ]
+    ]
+]
